@@ -1,4 +1,4 @@
 
-# make changes in 1 branch which is not main branch
+#this file is about ot be deleted in local repo! 9-19
 
 
